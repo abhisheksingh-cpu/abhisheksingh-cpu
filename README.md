@@ -19,23 +19,19 @@ My interests span AI-powered developer tools, distributed systems, backend archi
 
 ### Selected Projects
 
-**ForgeAI** — AI-Assisted Software Development
+### Selected Projects
 
-Exploring AI-powered development workflows that help developers understand and work with codebases. Focused on repository-aware assistance and practical engineering workflows.
+**ForgeAI — AI-Assisted Software Development**
+
+Building AI-powered development workflows to help developers understand and work with codebases more effectively, with a focus on repository-aware assistance and practical engineering automation.
 
 `Python` · `AI Engineering` · `Developer Tools`
 
-**AegisPay** — Payment Reliability & SLA Compensation
+**AegisPay — Intelligent Payment Reliability**
 
-Building a payment reliability platform that connects incident detection and recovery with deterministic, auditable SLA compensation rules.
+Building a payment reliability platform that connects incident detection, controlled service recovery, and deterministic, auditable SLA compensation workflows. Exploring Kubernetes-based infrastructure and evidence-driven root-cause analysis.
 
-`FastAPI` · `PostgreSQL` · `Docker` · `PayPal Sandbox`
-
-**KubeSage** — Adaptive Kubernetes Incident Remediation
-
-Developing an approach to discovering and expanding remediation workflows when Kubernetes incidents do not match existing solutions.
-
-`Kubernetes` · `AI Agents` · `Observability` · `Workflow Discovery`
+`FastAPI` · `PostgreSQL` · `Docker` · `Kubernetes` · `PayPal Sandbox`
 
 ### Technical Toolkit
 
